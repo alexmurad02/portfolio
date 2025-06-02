@@ -21,6 +21,6 @@ The game uses SFML to create a graphical interface that allows users to interact
 
 ## Credits
 
-Developed by Alex Murad
-Course: COP3503C
-Institution: University of Florida
+- Developed by Alex Murad
+- Course: COP3503C
+- Institution: University of Florida
