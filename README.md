@@ -5,3 +5,4 @@ This repository showcases some of the programming projects that I have completed
 
 - Minesweeper Game
 - Report Generator
+- Advent of Code Solutions
