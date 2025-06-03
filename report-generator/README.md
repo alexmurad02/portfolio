@@ -6,7 +6,7 @@ The program generates PDF reports in Python by using ReportLab, Pandas, and MatP
 
 ## Notes
 - This project is intended to be run in the command line.
-- The data files must be .csv files with the expected column headers.
+- The data files must be .csv files with the correct column headers.
 
 ## Credits
 
