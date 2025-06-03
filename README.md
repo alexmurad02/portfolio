@@ -4,3 +4,4 @@ This repository showcases some of the programming projects that I have completed
 ## Contents
 
 - Minesweeper Game
+- Report Generator
